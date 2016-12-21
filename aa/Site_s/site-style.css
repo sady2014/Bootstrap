@@ -1,0 +1,91 @@
+body{
+        		background-color: gainsboro;
+        	}
+   			.container .row h1{
+                font-size: 68px; 
+                font-weight: bold; 
+                color: white;
+                margin-bottom: 20px;
+            }
+            .container h3{
+                font-size: 36px; 
+                font-family: "microsoft yahei";
+                color: white;
+                margin:15px 0 50px 0 ;
+            }
+            #img-bg{
+            	/*border: 1px solid gainsboro;*/
+            	background-color: white;"
+            }
+            #box-1 img{
+            	padding: 10px;
+            }
+           #box-1 p{
+           	font-size: 24px;
+           }
+           #box-1 p a{
+           	font-family: "微软雅黑", "microsoft yahei";
+           	 color: #777777;
+           }
+           #box-1 p a:hover{
+           	font-family: "微软雅黑", "microsoft yahei";
+           	 color: #333333;
+           }
+           #box-1 .thumbnail{
+           	 border-radius: 0px;
+           }
+           #footer-1{
+			height: 150px;
+           	background-color: #EEEEEE;
+           }
+           #footer-1 p{
+           	margin-top: 15px;
+           }
+           #footer-2 h4{
+           	 color: #FFF;
+           	font-size: 18px;
+           	margin-top: 30px;
+           }
+		   .text-warlu{
+           	border-bottom: 1px dashed #303030;
+           	height: 43px;
+           	line-height: 43px;
+           	margin-right:50px;
+           }
+           .text-warlu a{
+           	color: #959595;
+           }
+           #duang{
+           	
+           }
+           #duang a{
+           		width: 70px;
+           		height: 30px;
+           		line-height: 30px;
+           		display: inline-block;
+           		border:1px solid #303030;
+           		text-align: center;
+           		margin-top: 5px;
+           		color: #959595;
+           }
+        
+        #foott{
+			width: 100%;
+			line-height: 50px;
+			height: 50px;
+        	color: #555555;
+        	font-size: 13px;
+        	background-color: #F6F6F6;
+        }
+        #foott.container{
+        	background-color: #111111;
+        }
+        #button{
+        	float: right;
+        	background-color: #F2F2F2;
+        }
+        #button:hover{
+        	
+        	background-color: #202020;
+        	color: white;
+        }
